@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Sas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
